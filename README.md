@@ -10,8 +10,8 @@ There are some CAD models stored within this repository, namely the below:
 
 - [Planetary Gears](https://www.thingiverse.com/thing:6731402)
 
-![Img](assets\PlanetaryGears.png)
+![Img](https://raw.githubusercontent.com/realhuman101/projectDocs/master/assets/PlanetaryGears.png)
 
 - [Braille Phone Casing](https://github.com/realhuman101/BraillePhone/tree/main/CAD)
 
-![Img](assets\BPhone.png)
+![Img](https://raw.githubusercontent.com/realhuman101/projectDocs/master/assets/BPhone.png)
