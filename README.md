@@ -9,7 +9,9 @@ This is also used as a public issues tracker for private repositories.
 There are some CAD models stored within this repository, namely the below:
 
 - [Planetary Gears](https://www.thingiverse.com/thing:6731402)
-![Planetary Gears Img](assets\PlanetaryGears.png)
+
+![Img](assets\PlanetaryGears.png)
 
 - [Braille Phone Casing](https://github.com/realhuman101/BraillePhone/tree/main/CAD)
-![Braille Phone Img](assets\BPhone.png)
+
+![Img](assets\BPhone.png)
